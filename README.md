@@ -40,8 +40,13 @@ every turn.
 
 ## Installing it
 
-Drop the whole `kotlin-java-spring-boot-code-style/` folder into a skills directory Claude Code reads
-from:
+Repo: [github.com/OrestKlymko/clean-code-kotlin-java-skill](https://github.com/OrestKlymko/clean-code-kotlin-java-skill)
+
+```bash
+git clone git@github.com:OrestKlymko/clean-code-kotlin-java-skill.git ~/.claude/skills/kotlin-java-spring-boot-code-style
+```
+
+Or drop the folder manually into a skills directory Claude Code reads from:
 
 - **Personal, all projects:** `~/.claude/skills/kotlin-java-spring-boot-code-style/`
 - **This project only:** `<project-root>/.claude/skills/kotlin-java-spring-boot-code-style/`
